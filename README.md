@@ -4,7 +4,6 @@
 
 ![Untitled design (3)](https://github.com/Vishal8700/ATS-SCAN-EDGE-CHROME-EXTENSION/assets/97828106/00975035-e8ba-4f4d-ba7e-e5264b7c4403)
 ![add Job Description](https://github.com/Vishal8700/ATS-SCAN-EDGE-CHROME-EXTENSION/assets/97828106/41c9af3d-887c-4b87-9973-9c7085bd0a44)
-![ico](https://github.com/Vishal8700/ATS-SCAN-EDGE-CHROME-EXTENSION/assets/97828106/a11ef8b6-e273-4334-9207-9d422e1e29ce)
 
 
 ## Overview
