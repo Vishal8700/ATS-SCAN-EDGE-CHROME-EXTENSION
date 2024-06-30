@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ATS Scan</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body class="light-mode">
+  <div class="header">
+    <h1>ATS Scan</h1>
+    <div class="toggle-switch">
+      <label class="switch">
+        <input type="checkbox" id="mode-switch">
+        <span class="slider round"></span>
+      </label>
+    </div>
+  </div>
+  <p>Optimize your resume for the job market.</p>
+  <a href="https://atsscan.streamlit.app" target="_blank" id="goto_btn">Upload Resume</a>
+
+  <div class="video-container">
+    <p>Learn how ATS works:</p>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/5QRyC0xiXqk" title="ATS SCAN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  
+  <div class="footer">
+    <p>Developed with 💖 by git.alien</p>
+    <a href="privacy_policy.html" id="privacy-policy-link" >Privacy Policy</a> |
+    <a href="https://github.com/Vishal8700" id="developer-info-link" target="_blank">Developer Info</a>
+  </div>
+
+  <!-- Privacy Policy and Developer Info Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close-button">&times;</span>
+      <div id="modal-text"></div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

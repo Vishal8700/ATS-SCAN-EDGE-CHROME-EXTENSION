@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "ATS Scan",
+    "version": "1.0",
+    "description": "Redirects to the ATS scan website for resume analysis.",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png"
+      }
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png"
+    }
+  }
+
+  
