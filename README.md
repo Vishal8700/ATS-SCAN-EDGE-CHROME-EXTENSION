@@ -12,6 +12,9 @@ ATS Scan Extension is a powerful tool that leverages Google Gemini Pro and GPT-b
 
 This extension integrates seamlessly with your existing workflow, offering a user-friendly interface for checking and improving your resume's compatibility with job requirements.
 
+[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/your-username/ats-scan-extension/archive/main.zip)
+
+
 ## Features
 
 - **ATS Score Calculation**: Utilizes Google Gemini Pro and GPT AI to compute an ATS score based on the similarity between a resume and a job description.
